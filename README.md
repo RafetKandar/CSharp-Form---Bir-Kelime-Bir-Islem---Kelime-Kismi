@@ -5,5 +5,12 @@
 
 <ul>
   <li>Kullanıcı Tarafından Harflerin Elle Girilmesi</li> </br>
-  ![CSharp-Form---Bir-Kelime-Bir-Islem---Kelime-Kismi](Manuel_Trim.gif)
 </ul>  
+
+![CSharp-Form---Bir-Kelime-Bir-Islem---Kelime-Kismi](Manuel_Trim.gif)
+
+<ul>
+  <li>Uygulama Tarafında Harflerin Random Olarak Verilmesi</li> </br>
+</ul>  
+
+![CSharp-Form---Bir-Kelime-Bir-Islem---Kelime-Kismi](Random_Trim.gif)
